@@ -28,7 +28,6 @@ print("Square root of the number:",app)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
 ![Output](sqroot.png)
 
 
